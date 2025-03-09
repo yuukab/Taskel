@@ -1,0 +1,6 @@
+name = "taskel-backend"
+main = "src/index.ts"
+compatibility_date = "2024-03-09"
+
+[vars]
+ENV = "development"
